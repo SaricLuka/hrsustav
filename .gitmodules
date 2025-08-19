@@ -1,0 +1,12 @@
+[submodule "subrepos/docs"]
+	path = subrepos/docs
+	url = git@github.com:SaricLuka/hrsustav-docs.git
+	branch = main
+[submodule "subrepos/api"]
+	path = subrepos/api
+	url = git@github.com:SaricLuka/hrsustav-api.git
+	branch = main
+[submodule "subrepos/tools"]
+	path = subrepos/tools
+	url = git@github.com:SaricLuka/hrsustav-tools.git
+	branch = main
